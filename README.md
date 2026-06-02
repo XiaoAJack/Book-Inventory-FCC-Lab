@@ -1,1 +1,1 @@
-Entry for the FCC Book Inventory.
+Entry for FCC Certificate Projects
